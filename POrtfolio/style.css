@@ -1,0 +1,220 @@
+/* Remove default spacing */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Page */
+
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+
+/* Main table */
+
+.main-table {
+    width: 700px;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+
+/* All table cells */
+
+.main-table td {
+    border: 1px solid #777;
+}
+
+
+/* Logo */
+
+.logo-area {
+    height: 110px;
+    text-align: center;
+    border: none !important;
+}
+
+
+.logo {
+    width: 220px;
+}
+
+
+/* Section headings */
+
+.heading {
+    height: 35px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #f5f5f5;
+}
+
+
+/* About section */
+
+.profile-cell {
+    width: 180px;
+    height: 150px;
+    text-align: center;
+}
+
+
+.profile {
+    width: 120px;
+    height: 130px;
+    object-fit: cover;
+}
+
+
+.about-text {
+    padding: 15px;
+    font-size: 13px;
+    vertical-align: top;
+}
+
+
+.about-text h3 {
+    margin-bottom: 10px;
+}
+
+
+.about-text p {
+    margin-bottom: 8px;
+}
+
+
+/* Skills */
+
+.skill {
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.skill h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+
+.skill p {
+    font-size: 12px;
+}
+
+
+/* Projects */
+
+.project {
+    width: 33.33%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.project img {
+    width: 150px;
+    height: 90px;
+    object-fit: cover;
+}
+
+
+.project h3 {
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+
+.project p {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+
+/* Education */
+
+.education {
+    height: 85px;
+    text-align: center;
+    padding: 8px;
+}
+
+
+.education h3 {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+
+.education p {
+    font-size: 12px;
+}
+
+
+/* Certificates */
+
+.certificate {
+    height: 80px;
+    text-align: center;
+    padding: 8px;
+}
+
+
+.certificate h3 {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+
+.certificate p {
+    font-size: 12px;
+}
+
+
+/* Contact */
+
+.contact {
+    height: 65px;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+.contact p {
+    margin-top: 7px;
+}
+
+
+/* Bottom section */
+
+.bottom-box {
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+
+.bottom-box h3 {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+
+.bottom-box p {
+    font-size: 11px;
+    margin-bottom: 5px;
+}
+
+
+/* Simple P icon */
+
+.simple-icon {
+    font-size: 35px;
+    font-weight: bold;
+}
